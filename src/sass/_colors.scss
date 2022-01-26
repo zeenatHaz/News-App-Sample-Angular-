@@ -1,0 +1,19 @@
+@import './variables';
+
+
+//Primary and theme colour
+$color-primary: rgb(92, 191, 43); // # // Standard dark colour
+$color-secondary: rgb(91, 15, 211); // #; // Purple
+$color-brand-01: rgb(251, 164, 65); // # // Orange
+
+.font-grey-01{
+    color:$grey-1;
+}
+
+.font-grey-02{
+    color:$grey-2;
+}
+
+.font-green-01{
+    color:$color-primary;
+}
